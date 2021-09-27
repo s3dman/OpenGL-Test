@@ -1,4 +1,4 @@
 - line a thsi is pretty cool
-- line b thsi is pretty cool
+- line b this is pretty shit
 - line c thsi is pretty cool
-- line d this is pretty cool
+- line d this is pretty sed
