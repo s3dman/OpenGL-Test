@@ -1,4 +1,4 @@
 - line a thsi is pretty cool
 - line b thsi is pretty cool
 - line c thsi is pretty cool
-- line d thsi is pretty cool
+- line d this is pretty cool
