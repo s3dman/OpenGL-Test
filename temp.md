@@ -1,4 +1,4 @@
 - lines a this is pretty cool
-- lines b this is pretty cool
+- lines b this is pretty shit
 - lines c this is pretty cool
 - lines d this is pretty cool
